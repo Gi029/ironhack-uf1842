@@ -12,6 +12,9 @@
  */
 
 function filterProgrammingLanguages(languages, minYears) {
+    // un metodo que recorra todas las opciones y eliga  a la persona que tiene mas experiencias
+    // FOR EACH  es un metodo, deberia de recorrer todos los casos.
+    
 
 }
 
