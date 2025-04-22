@@ -44,3 +44,7 @@ input{
     font-size: 25px;
     margin: 25px 200px 15px 200px;
 }
+
+#total{
+   width: 110px;
+}
